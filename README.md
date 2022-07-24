@@ -18,6 +18,10 @@ Usage : ggp <your-search-text>
     grepper-cli javascript recursion example
 ```
 
+## DEMO
+
+![demo](./demo.gif)
+
 ## LICENSE
 
 **MIT**
